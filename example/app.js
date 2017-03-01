@@ -108,5 +108,5 @@ var getQbo = function(args) {
                        args.secret,
                        args.companyId,
                        true, // use the Sandbox
-                       true); // turn debugging on
+                       false); // turn debugging on
 }
